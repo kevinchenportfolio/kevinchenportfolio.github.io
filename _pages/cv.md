@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[You can get a PDF file with my CV here](/files/KevinChenResume.pdf)
+
 Education
 ======
 * MPP, Yale University, 2027 (expected)  
@@ -60,9 +62,14 @@ Skills
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+  <li>
+    <strong>GLBL 2392: Intelligence, Espionage, and American Foreign Policy</strong><br>
+    <em>Yale University – Fall 2025</em><br>
+    TF-20 (Teaching Fellow, 20 hours/week) under Prof. Ted Wittenstein.<br>
+    <a href="/teaching/">View Details</a>
+  </li>
+</ul>
   
 Service and leadership
 ======
