@@ -4,54 +4,59 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPP, Yale University, 2027 (expected)  
+* BA in Quantitative Social Science, Dartmouth College, 2022
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023–2025: Data Scientist
+  * Central Intelligence Agency  
+  * Developed AI/ML models to support U.S. national security priorities, with focus on generative AI and LLM manipulation 
+  * Led cross-functional analytics projects across a swath of teams and deployed tools in operational environments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022–2023: Data Analyst
+  * Federal Bureau of Investigation 
+  * Managed multimillion-dollar reimbursable programs and internal personnel allocations across FBI threat domains
+  * Delivered data insights and policy guidance to FBI executives
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2021: Research Assistant
+  * Dartmouth QSS
+  * Supported faculty-led projects involving opioid mortality and educational disparities  
+  * Conducted statistical analysis in R and Python, co-authored codebooks, and presented at undergraduate research forums
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science & Machine Learning  
+  * Python, R, SQL, scikit-learn, TensorFlow, pandas, NumPy  
+  * Natural Language Processing, LLM fine-tuning, data labeling pipelines, general data engineering
 
-Publications
+* Intelligence & Policy Analysis  
+  * U.S.–China relations, AI governance, technology policy, national security  
+  * Open-source intelligence (OSINT), red teaming, briefing preparation
+
+* Communication & Languages  
+  * Fluent in Mandarin Chinese  
+  * Proficient in Russian  
+  * Public speaking, executive writing, technical documentation and communication
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +66,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Asian Pacific American Organization Directorate Representative, CIA, 2024
+* Pat Roberts Intelligence Scholar, CIA, 2024
