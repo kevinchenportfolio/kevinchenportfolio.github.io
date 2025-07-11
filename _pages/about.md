@@ -37,7 +37,6 @@ In my free time, I try to work on side projects that can keep my skills sharp:
 
 # Random Facts
 
-- Have an 11.08 K/D in Fortnite, which puts me in the top 0.1% of players — [View stats](https://fortnitetracker.com/profile/all/PalantirGaming)  
 - Love exploring the US. I've been across New England, the Southwest, Alaska, Yellowstone, and many others  
 - Irvine Welsh is my favorite author. *Trainspotting* is one of the best and most raw works of fiction I've read.
 - I have been a finalist in Jeopardy auditions 4 separate times now. 5th times the charm?  
