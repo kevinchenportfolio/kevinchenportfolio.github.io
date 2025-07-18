@@ -22,7 +22,7 @@ repository               : "kevinchenportfolio/kevinchenportfolio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kevinpfp.png"
+  avatar           : "levi.png"
   name             : "Kevin Chen"
   pronouns         : # example: "she/her"  
   bio              : "Yale MPP '27. Focused on AI policy, U.S./China relations, and emerging tech."
